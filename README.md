@@ -13,5 +13,6 @@ Simple steps are as follows,
 - firsly, union all the required yearly dataset and join with respective table which are market_segment for discount calculation and meal table for cost of meal. 
 All can be done in the MySQL. 
 - Generate back the modified dataset and insert into Looker Studio for intended visualizations to show the trends of revenue and parking space needed. 
+_ Also tried soem steps with the Python for EDA purpose.
 
 all the steps done by those tools along with the dataset are also provided. 
